@@ -1,7 +1,7 @@
 # Data loading
 
 import pandas as pd
-df = pd.read_csv('E:\Python test, Bink\Mobile Phone Masts.csv')
+df = pd.read_csv('Mobile Phone Masts.csv')
 
 # Task 1
 
