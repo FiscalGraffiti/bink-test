@@ -33,6 +33,7 @@ print(' ')
 
 # Task 5
 
+# Everything up until the next comment is the necessary string manipulation. I realise I'm violating DRY, but you get the idea of what I'm doing.
 months = {'Jan': '01', 'Feb': '02', 'Mar': '03', 'Apr': '04', 'May': '05', 'Jun': '06', 'Jul': '07', \
           'Aug': '08', 'Sep': '09', 'Oct': '10', 'Nov': '11', 'Dec': '12'}
 lease_start_dates = [entry[header.index('Lease Start Date')] for entry in data]
@@ -56,6 +57,7 @@ for date in lease_end_dates:
             break
     index += 1
 
+# Finally:
 index = 0
 for date in lease_start_dates:
     if 2007 >= int(date[-4:]) >= 1999:
