@@ -1,3 +1,1 @@
-I'm used to writing functions which return certain values rather than printing them to the console - so I wasn't sure how to
-include unit tests here (I've only used the 'unittest' module) without convoluting the task and making functions out of the
-requirements.
+I imagine Django would be the best tool for delivering on the frontend here, but I've never done any frontend development and, given everything I've got to do, unfortunately I don't have the time to learn the relevant tool(s) in any real level of depth.
