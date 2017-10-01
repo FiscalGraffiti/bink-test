@@ -1,1 +1,1 @@
-I imagine Django would be the best tool for delivering on the frontend here, but I've never done any frontend development and, given everything I've got to do, unfortunately I don't have the time to learn the relevant tool(s) in any real level of depth.
+I imagine Django would be the best tool for delivering on the frontend here, but I've never done any frontend development and, given everything I've got to do, unfortunately I don't have the time to learn the relevant tool(s) in any real level of depth. I'm fairly confident about the rest, though.
